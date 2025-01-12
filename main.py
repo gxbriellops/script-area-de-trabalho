@@ -3,7 +3,6 @@ import time
 
 pyautogui.PAUSE = 1
 
-time.sleep(10)
 # verificar se o mouse esta na area de trabalho principal
 pyautogui.hotkey('win', 'ctrl', 'right')
 pyautogui.hotkey('win', 'ctrl', 'right')
